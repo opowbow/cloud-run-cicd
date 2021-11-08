@@ -1,6 +1,6 @@
 # Cloud Run "Hello" container
 
-This is a sample Go app that is
+A sample Go app that is
 distributed as the public container image (`gcr.io/cloudrun/hello`) 
 
 
